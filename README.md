@@ -1,6 +1,4 @@
-# 46-simple-python
-
-# The Exercises
+# 46 Simple Python Exercises
 
 ## Very simple exercises
 
